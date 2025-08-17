@@ -288,7 +288,7 @@ const ContactForm = () => {
         <h2 className="text-2xl font-mono text-teal-400 mb-2">05. What's Next?</h2>
         <h3 className="text-5xl font-bold text-slate-100 mb-4">Get In Touch</h3>
         <p className="max-w-2xl mx-auto text-slate-400 mb-8">
-          I'm currently open to new opportunities. My inbox is always open, whether you have a question or just want to say hi!
+          I'm currently open to new opportunities. My inbox is always open, whether you have a question or just want to say hii!
         </p>
       </div>
       
